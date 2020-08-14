@@ -12,5 +12,6 @@ icon.addEventListener('click',() =>{
     profile.classList.toggle("hidden");
     pop.classList.toggle("pop-show");
     iconImage.classList.toggle("filter");
-    // icon.classList.toggle("dark-icon");
+    icon.classList.toggle("dark-icon");
+    // footer.classList.toggle("profile");
 })
